@@ -10,4 +10,6 @@ A night elf in bloodfang armor in a cyberpunk style location. everything is in m
 
 Result:
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/master/img/monochrome-red-elf.png" alt="monredelf">
+<img src="[https://raw.githubusercontent.com/your-username/your-repo/master/img/monochrome-red-elf.png](https://github.com/photonzz/photonz_ai_creations/blob/main/img/monochrome-red-elf.jpeg)" alt="monredelf">
+
+
