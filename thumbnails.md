@@ -10,3 +10,4 @@ A night elf in bloodfang armor in a cyberpunk style location. everything is in m
 
 Result:
 
+![monochrome-red-elf](/img/monochrome-red-elf.png)
