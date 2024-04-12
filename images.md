@@ -1,7 +1,7 @@
 # monochrome red elf
 
 ```
-website: bing.com/create
+website: bing.com/create | DALL-E 3
 
 prompt:
 
