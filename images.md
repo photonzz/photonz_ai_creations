@@ -14,4 +14,12 @@ result:
 
 <img src="https://github.com/photonzz/photonz_ai_creations/blob/main/img/monochrome-red-elf.jpeg" alt="monredelf">
 
+```
+https://designer.microsoft.com/image-creator
 
+prompt:
+
+a male human paladin with cool plate armor and a majestic shield infused with the holy light (its yellow) , a night elf feral druid in infused with berserking rage (its red and orange) and an orc warlock infused with demonic fel energy (its purple and green). they are fighting together in an arena. the energy is over the top everywhere
+```
+
+<img src="https://github.com/photonzz/photonz_ai_creations/blob/main/img/pala-feral-lock.jpeg" alt="palaferallock">
