@@ -10,8 +10,6 @@ A night elf in bloodfang armor in a cyberpunk style location. everything is in m
 warglaives wielded by the elf. the eyes are also glowing red with a fiery red fel flame.
 ```
 
-result:
-
 <img src="https://github.com/photonzz/photonz_ai_creations/blob/main/img/monochrome-red-elf.jpeg" alt="monredelf">
 
 ```
